@@ -1,3 +1,3 @@
 netrunner-default-settings
 ==========================
-Default settings for KDE4 and applications for Netrunner. 
+Default settings for Plasma and applications for Netrunner. 
