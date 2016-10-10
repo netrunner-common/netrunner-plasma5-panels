@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 5)
 Standards-Version: 3.7.2
 
 Package: netrunner-core-plasma5-panels
-Architecture: any
+Architecture: all
 Depends: default-settings-xsession
 Breaks: netrunner-plasma5-panels
 Replaces: netrunner-plasma5-panels
